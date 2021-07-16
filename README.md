@@ -3,4 +3,4 @@
 ## Task: Color Flipper
 
 ## Link
-[Live preview] ()
+[Live preview]()
